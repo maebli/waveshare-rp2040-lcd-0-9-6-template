@@ -594,7 +594,7 @@ dependencies = [
  "cortex-m",
  "cortex-m-rt",
  "embedded-graphics",
- "embedded-hal 0.2.7",
+ "embedded-hal 1.0.0",
  "fugit",
  "nb 1.1.0",
  "panic-halt",
